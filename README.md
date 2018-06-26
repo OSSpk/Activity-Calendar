@@ -8,6 +8,7 @@ An activity calendar for year 2016 with following functionalities:
 *	Remove an activity
 *	Load Activities from file
 *	Save Activities in file
+
 User can have only one activity in an hour.  
 
 ## Interface
