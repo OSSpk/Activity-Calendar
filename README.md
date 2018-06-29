@@ -15,4 +15,4 @@ User can have only one activity in an hour.
 ![interface](../master/c.png)
 
 ## How to Run
-It is recommended that the Calendar.cpp file is built and run using Microsoft Visual Studio.
+Create a new Console Application Project in Visual Studio for Visual C++ and add Calendar.cpp to it. Then build and run the project.
